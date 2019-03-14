@@ -1,0 +1,5 @@
+Blue, Hint : Sky
+Red, Hint : Sun
+Green, Hint : Tree
+Yellow, Hint : Banana
+Orange, Hint : Carrot
